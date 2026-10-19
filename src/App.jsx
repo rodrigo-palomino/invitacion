@@ -726,7 +726,7 @@ const SceneDress = () => (
         side="left"
         word="Niña"
         sub="Viste rosa o fucsia"
-        bring="Trae artículos de limpieza"
+        bring="Trae artículos de limpieza para bebés"
         ink="#a83a63"
         Icon={SparklesIcon}
         shirt="/polo-rosa.png"
